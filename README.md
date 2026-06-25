@@ -31,8 +31,10 @@ The test accuracy improved significantly after adding data augmentation.
 * `requirements.txt`: required Python libraries.
 
 ## How to Run
+
 Note: The trained model file is not included because of GitHub file size limits.  
 Run `python train_model.py` first to train and generate `rock_paper_scissors_model.keras`, then run `python live_camera.py`.
+
 Install the required libraries:
 
 ```bash
